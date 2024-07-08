@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "389786401930",
+    "project_id": "dogsgpsnew",
+    "storage_bucket": "dogsgpsnew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389786401930:android:c09248b4ac6380e0a28173",
+        "android_client_info": {
+          "package_name": "com.example.gps_dogs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmvvsdssUXycHNNtql6Xnov1-4vJflF-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389786401930:android:0950e8afb6474418a28173",
+        "android_client_info": {
+          "package_name": "gps.dogs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmvvsdssUXycHNNtql6Xnov1-4vJflF-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
